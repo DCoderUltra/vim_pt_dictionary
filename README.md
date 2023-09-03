@@ -1,12 +1,8 @@
-# vim_pt_dictionary
-
-Vim Portuguese Dictionary / Dicionário
-
-
+# Vim Portuguese Dictionary / Dicionário
 If you're here you probably know Portuguese so... 
-Dado à inexistência de Dicionários para Português de Portugal para o Vim eu decidi criar 2.
 
-Número de vezes que a palavra dicionario é dita: 18
+Dado à inexistência de Dicionários para Português de Portugal para o Vim eu decidi criar 2.
+- Número de vezes que a palavra dicionario é dita: 18
 
 # 1. Dicionário Antigo (1913) 
 Neste Dicionário podes encontrar a maneira como as palavras eram escritas em português do séc.XX, todas 
@@ -16,7 +12,7 @@ Um agradecimento especial a toda gente que contribuiu para a criação e manuten
 qual seria muito mais difícil ter acesso à Língua Portuguesa como era escrita há um século atrás.
 
 # 2. Dicionário Natura (Atual) 
-O Grupo Natura também desenvolve e mantém o seu dicionário para o Vim o qual recomendo sob a minha versão, a não ser que pretenda controlar 
+O Grupo Natura também desenvolve e mantém o seu dicionário para o Vim o qual recomendo, a não ser que pretenda controlar 
 extamente quais as palavras que estão no dicionário. Nestes dicionários tem a versão pré e pós acordo ortográfico.
 Consulte: https://natura.di.uminho.pt/download/sources/Dictionaries/vim/LATEST/
 
