@@ -44,9 +44,9 @@ Se acredita que algum dos ficheiros não deveria estar aqui.
 Contacte-me em: dcoderultra@tutanota.com
 
 # Links
-https://dicionario-aberto.net/
-http://www.portaldalinguaportuguesa.org/
-https://natura.di.uminho.pt/wiki/doku.php?id=projectonatura
-https://natura.di.uminho.pt/wiki/doku.php?id=dicionarios:main
-https://natura.di.uminho.pt/download/sources/Dictionaries/vim/LATEST/
-https://natura.di.uminho.pt/download/sources/Dictionaries/wordlists/
+- https://dicionario-aberto.net/
+- http://www.portaldalinguaportuguesa.org/
+- https://natura.di.uminho.pt/wiki/doku.php?id=projectonatura
+- https://natura.di.uminho.pt/wiki/doku.php?id=dicionarios:main
+- https://natura.di.uminho.pt/download/sources/Dictionaries/vim/LATEST/
+- https://natura.di.uminho.pt/download/sources/Dictionaries/wordlists/
