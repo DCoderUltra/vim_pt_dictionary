@@ -2,7 +2,19 @@
 If you're here you probably know Portuguese so... 
 
 Dado à inexistência de Dicionários para Português de Portugal para o Vim eu decidi criar 2.
-- Número de vezes que a palavra dicionario é dita: 17
+- Número de vezes que a palavra dicionario é dita: 18
+
+# 0. Instalação
+Escolhe o dicionário que preferes e copia-o para a pasta spell do vim. Esta está provavelmente em $HOME/.local/share/nvim/site/spell ou em $HOME/.config/nvim/spell.
+
+Para selecionares o teu novo dicionário,
+
+    :set spelllang=<nome_do_dicionário_sem_o_.utf-8.spell>
+
+Para ativares/desativares o spellcheck,
+
+    :set spell!
+
 
 # 1. Dicionário Antigo (1913) 
 Aqui podes encontrar a maneira como as palavras eram escritas em português do séc.XX, todas  as palavras aqui 
@@ -26,10 +38,13 @@ Este dicionário serve apenas como exemplo para a criação de dicionários pess
 
 Instruções:
 
-Abrir o vim  e executar o código:
+Abrir o Vim  e executar o código:
+
     :mkspell <nome_do_ficheiro_com_as_palavras>
+
 Depois mudar o nome do ficheiro cirado para 
-    nome.utf-8.spl
+    
+    mv <nome_do_ficheiro_com_as_palavras> <nome_do_ficheiro_com_as_palavras>.utf-8.spl
 
 Depois basta carregar o dicionário.
 
